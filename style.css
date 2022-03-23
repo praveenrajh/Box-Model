@@ -1,0 +1,23 @@
+body{
+    background-color: #dbdbdb;
+}
+.fa{
+    color: #4183D7;
+}
+span{
+    font-size: 15px;
+}
+.insidebox{
+    background-color: rgb(248, 248, 248);
+    padding: 60px 10px;
+    margin: 30px 0px;
+}
+a{
+    border-bottom: 1px solid #4183D7;
+}
+.text{
+    margin: 10px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
